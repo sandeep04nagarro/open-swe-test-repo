@@ -30,10 +30,26 @@ git clone https://github.com/sandeep04nagarro/open-swe-test-repo.git
 cd open-swe-test-repo
 ```
 
+## Usage
+
+This repository is intentionally minimal and acts as a sandbox for Open SWE to exercise its end-to-end flows. Typical workflows include:
+
+- Creating and managing GitHub issues and pull requests
+- Reading repository context and proposing minimal, focused changes
+- Pushing branches, opening draft PRs, and posting review comments
+
 ## Development
 
 This repository is maintained for testing purposes. Contributions and feedback are welcome.
 
+### Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/my-change`)
+3. Commit your changes (`git commit -m "feat: describe your change"`)
+4. Push the branch (`git push origin feature/my-change`)
+5. Open a pull request describing the change and its motivation
+
 ## License
 
-This project is available under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
